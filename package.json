@@ -1,0 +1,25 @@
+{
+  "name": "vuepress_blog_template",
+  "version": "1.0.0",
+  "description": "blog - software development",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pxjack/pxjblog.git"
+  },
+  "keywords": [],
+  "dependencies": {
+    "vuepress": "1.5.2",
+    "vuepress-theme-reco": "1.2.2"
+  },
+  "devDependencies": {
+    "vue": "^2.6.11",
+    "vue-class-component": "^7.2.3"
+  }
+}
